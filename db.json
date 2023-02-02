@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "quocanh",
+      "email": "anh0@gmail.com",
+      "password": "$2a$10$/RlZVU3Ya8e9NXJbv5zsMe4lYg.ESsGMJt3IR7bk/coycxEq5/AJe",
+      "id": 8,
+      "role": "admin"
+    },
+    {
+      "username": "anh112231",
+      "email": "anh2868@gmail.com",
+      "password": "$2a$10$Rv14OQd6pBwwdYvLRnASvOeP5aRlYcCn05vA8rveqvB2GGHKe76.2",
+      "id": 9
+    }
+  ],
+  "tasks": [
+    {
+      "title": "HTML",
+      "assignee": "Nguyen Quang Thai",
+      "endTime": "2023-01-15T20:42",
+      "startTime": "2023-01-15T19:36",
+      "status": "Doing",
+      "progress": "50%",
+      "id": 3
+    },
+    {
+      "title": "CSS",
+      "startTime": "2023-02-01T12:39",
+      "endTime": "2023-02-02T13:39",
+      "assignee": "quocanh",
+      "progress": "0",
+      "status": "Todo",
+      "id": 4
+    }
+  ]
+}
