@@ -9,7 +9,7 @@
     "start": "NODE_ENV=production node server.js",
     "dev2": "json-server db.json -m ./node_modules/json-server-auth --port 5000"
   },
-  "author": "",
+  "author": "quocanh01 <anh012868@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
@@ -17,5 +17,6 @@
   "devDependencies": {
     "json-server-auth": "^2.1.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": "https://github.com/tunganh02071/jsonserver.git"
 }
